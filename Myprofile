@@ -1,0 +1,11 @@
+#using <iostream>
+
+using namespace std;
+
+int main(){
+cout<< "I am May Thaw Tar." << endl;
+cout<< "I am";
+cout<< "18";
+cout<< "years old."" << endl;
+return 0;
+}
